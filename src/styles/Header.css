@@ -1,0 +1,28 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+.header{
+  height: 60px;
+  width: 100%;
+  background-color: lightblue;
+}
+.container{
+  width: 60%;
+  margin: 0 auto;
+}
+.header_button{
+  text-transform: uppercase;
+  display: inline-block;
+  margin-right: 70px;
+  margin-top: 10px; 
+}
+.link{
+  text-decoration: none;
+    color: white;
+    font-weight: bold;
+    font-size: 35px;
+}
+.active{
+  color: gray;
+}
